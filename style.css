@@ -1,0 +1,23 @@
+.nav{
+  /* height: 18vh; */
+
+}
+
+.main{
+  /* height: 82vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+    background-color:rgb(43, 255, 0);
+    align-items: center;
+}
+
+.intro{
+  height: 70px;
+  text-align: center;
+  width: 80%;
+    background-color: yellow;
+}
+body{
+  background-color: aliceblue;
+}
